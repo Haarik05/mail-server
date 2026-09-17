@@ -25,6 +25,7 @@
     "@nestjs/common": "^12.0.1",
     "@nestjs/core": "^12.0.1",
     "@nestjs/platform-express": "^12.0.1",
+    "@visulima/email-verifier": "^1.0.10",
     "email-validator": "^2.0.4",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1"
